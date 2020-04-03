@@ -1,0 +1,85 @@
+.home-tiles-main {
+    height: 700px;
+    min-height: 500px;
+    width: 100%;
+    background-color: steelblue;
+    /* background: url("/images/backgrounds/multicolor.jpg"); */
+    background: url("/images/backgrounds/bw.jpg");
+    background-position: 80% 100%;
+    background-size: cover;
+}
+.home-tiles-main hr {
+    width: 50%;
+}
+.home-tile-tweet {
+    height: 50%;
+    width: 100%;
+    margin: auto auto;
+    /* background-color: turquoise; */
+    /* background: url("/images/727.jpg"); */
+    /* background: url("/images/backgrounds/zero.jpg");
+    background-position: 38% 100%;
+    background-size: cover; */
+    /* background-repeat: no-repeat; */
+    /* border-radius: 50%; */
+}
+.home-tile-bottom {
+    height: 50%;
+    width: 100%;
+    margin: 5% 0% 0% 0%;
+    /* background-color: thistle; */
+    /* border-radius: 0% 10% 0% 0% / 40px; */
+}
+.home-tile-bottom-left {
+    height: 100%;
+    width: 50%;
+    margin: 0%;
+    background-color: tomato;
+    float: left;
+}
+.home-tile-bottom-right {
+    height: 100%;
+    width: 50%;
+    margin: 0%;
+    background-color: whitesmoke;
+    float: left;
+    border-radius: 0% 15% 0% 0% / 40px;
+}
+.home-tile-bottom-right-top {
+    height: 50%;
+    width: 100%;
+    margin: 0%;
+    background-color: bisque;
+    border-radius: 0% 15% 0% 0% / 40px;
+}
+.home-tile-bottom-right-bottom {
+    height: 50%;
+    width: 100%;
+    margin: 0%;
+    background-color: orange;
+}
+.home-tile-bottom-right-bottom img {
+    margin: 3% auto 0% auto;
+    width: 25%;
+}
+.home-tile-bottom-right-bottom h5 {
+    margin-top: 5px;
+    font-size: 12px;
+
+    /* font-family: Ubuntu; */
+    font-family: Poppins;
+    font-size: 14px;
+    letter-spacing: 0.01em;
+    font-weight: 100;
+    word-spacing: 0.1em;
+    color: #000;
+}
+.home-tile-bottom-right-bottom button,
+.home-tile-bottom-right-bottom a {
+    background-color: tomato;
+    color: #f2f2f2;
+    /* font-family: Ubuntu; */
+    font-family: Poppins;
+    text-transform: capitalize;
+    font-size: 10px;
+}

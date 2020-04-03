@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "course": "Bachelor of Technology in Computer Science",
+            "institute": "Andhra University College of Engineering",
+            "startDate": "2011",
+            "endDate": "2015",
+            "score": "7.5",
+            "highScore": "10",
+            "location": "Visakhapatnam"
+        },
+        {
+            "id": 2,
+            "course": "Master of Technology in Computer Science and Software Engineering",
+            "institute": "Andhra University College of Engineering",
+            "startDate": "2015",
+            "endDate": "2016",
+            "score": "7.5",
+            "highScore": "10",
+            "location": "Visakhapatnam"
+        }
+    ]
+}

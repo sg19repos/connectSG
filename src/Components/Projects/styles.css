@@ -1,0 +1,9 @@
+.projects-home {
+    height: 100%;
+    width: 100%;
+    float: left;
+    background: url("/images/backgrounds/code.jpg");
+    background-size: contain;
+    border-radius: 8% 8% 0% 0% / 20px;
+    font-family: Poppins;
+}

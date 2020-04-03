@@ -1,0 +1,210 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Jewellery catalog application",
+            "description": "Jewellery Catalog applicaton built in React",
+            "techStack": [
+                "javascript",
+                "react",
+                "redux",
+                "html5",
+                "JSX",
+                "css3",
+                "bootstrap",
+                "MaterialUI"
+            ],
+            "url": "https://sg19repos.github.io/home",
+            "sourceCode": "https://github.com/sg19repos/DLJ",
+            "tags": ["live", "client", "WIP", "Fashion", "Shopping"],
+            "image": "./images/ProjectImages/collages/dljCollage.png",
+            "category": "client",
+            "status": "live"
+        },
+        {
+            "id": 2,
+            "name": "Maa Properties",
+            "description": "Real Estate Site",
+            "techStack": [
+                "mysql",
+                "php",
+                "MaterialUI",
+                "bootstrap",
+                "html5",
+                "css3",
+                "javascript",
+                "angularjs"
+            ],
+            "url": "http://missionmaa.epizy.com/login.php",
+            "sourceCode": "https://github.com/BetaProg/MPRTS",
+            "tags": [
+                "RealEstate",
+                "Client",
+                "Full Stack",
+                "live",
+                "Big",
+                "EmailNotifications"
+            ],
+            "image": "./images/ProjectImages/collages/maaPropCollage.png",
+            "category": "client",
+            "status": "live"
+        },
+        {
+            "id": 3,
+            "name": "Expense sharing app - Roomies",
+            "description": "Responsive Web App built for expensive sharing",
+            "techStack": [
+                "javascript",
+                "jquery",
+                "html5",
+                "css3",
+                "angularjs",
+                "php",
+                "mysql",
+                "bootstrap",
+                "MaterialUI"
+            ],
+            "url": "http://vroom.epizy.com/login.php",
+            "sourceCode": "https://github.com/BetaProg/Roomies",
+            "tags": ["live", "self", "Utility"],
+            "image": "./images/ProjectImages/collages/vroomCollage.png  ",
+            "category": "self",
+            "status": "live"
+        },
+        {
+            "id": 4,
+            "name": " True Leaf Tech",
+            "description": "Ionic App description",
+            "techStack": [
+                "react",
+                "Redux",
+                "javascript",
+                "html5",
+                "JSX",
+                "css3",
+                "MaterialUI",
+                "Ionic",
+                "Capacitor",
+                "android"
+            ],
+            "url": "NA",
+            "sourceCode": "NA",
+            "tags": [
+                "HybridApp",
+                "Mobile App",
+                "Client",
+                "WIP",
+                "Android",
+                "Government"
+            ],
+            "image": "./images/ProjectImages/collages/tltCollage.png",
+            "category": "client",
+            "status": "dorm"
+        },
+        {
+            "id": 5,
+            "name": "Bricks and More",
+            "description": "Logistics Supply chain app",
+            "techStack": [
+                "jquery",
+                "MaterialUI",
+                "php",
+                "mysql",
+                "html5",
+                "css3",
+                "javascript"
+            ],
+            "url": "NA",
+            "sourceCode": "https://github.com/BetaProg/KKSuppliers",
+            "tags": ["self", "Supply Chain"],
+            "image": "./images/ProjectImages/collages/bricksTileImage.png",
+            "category": "self",
+            "status": "dorm"
+        },
+        {
+            "id": 6,
+            "name": "Streaming Site",
+            "description": "Streaming site desc",
+            "techStack": [
+                "nodejs",
+                "javascript",
+                "html5",
+                "css3",
+                "bootstrap",
+                "socketio",
+                "express",
+                "heroku",
+                "git"
+            ],
+            "url": "https://feverz.herokuapp.com/",
+            "sourceCode": "NA",
+            "tags": ["audio", "streaming", "self", "live"],
+            "image": "./images/ProjectImages/collages/streamItCollage.png",
+            "category": "self",
+            "status": "live"
+        },
+        {
+            "id": 7,
+            "name": "Shopping Cart",
+            "description": "Shopping Cart widget based on React and localStorage",
+            "techStack": [
+                "angularjs",
+                "html5",
+                "css3",
+                "javascript",
+                "bootstrap",
+                "MaterialUI"
+            ],
+            "url": "NA",
+            "sourceCode": "NA",
+            "tags": ["self", "widget"],
+            "image": "./images/ProjectImages/collages/shoppingCartCollage.png",
+            "category": "self",
+            "status": "dorm"
+        },
+        {
+            "id": 8,
+            "name": "Calendar Widget",
+            "description": "Custom Calendar widget built in JavaScript with Week and Month views",
+            "techStack": ["html5", "css3", "javascript", "bootstrap"],
+            "url": "NA",
+            "sourceCode": "https://github.com/BetaProg/CustomCalendar",
+            "tags": ["self", "widget"],
+            "image": "./images/ProjectImages/collages/calendarCollage.png",
+            "category": "self",
+            "status": "dorm"
+        },
+        {
+            "id": 9,
+            "name": "Stock Scrape",
+            "description": "Stock data scrapped from sites and cummulated",
+            "techStack": ["python", "BeautifulSoup"],
+            "url": "NA",
+            "sourceCode": "https://github.com/BetaProg/Stockscrape",
+            "tags": ["self", "StockData", "WebScrapping", "Stocks", "Market"],
+            "image": "./images/ProjectImages/noImage.png",
+            "category": "self",
+            "status": "dorm"
+        },
+        {
+            "id": 10,
+            "name": "CountItDown",
+            "description": "Custom timer Widget in React, yet to be implemented in hooks",
+            "techStack": [
+                "react",
+                "html5",
+                "JSX",
+                "css3",
+                "Hooks",
+                "github",
+                "javascript"
+            ],
+            "url": "https://sg19repos.github.io/countItDown/",
+            "sourceCode": "https://github.com/sg19repos/countItDown",
+            "tags": ["live", "self", "widget"],
+            "image": "./images/ProjectImages/collages/countDownCollage.png",
+            "category": "self",
+            "status": "live"
+        }
+    ]
+}

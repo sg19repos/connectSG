@@ -1,0 +1,35 @@
+.twitter-tweet {
+    font-weight: normal;
+    font-size: 12px;
+}
+.portfolio-text button {
+    /* font-family: Ubuntu; */
+    font-family: Poppins;
+    background-color: #fcb412;
+    font-size: 10px;
+    text-transform: capitalize;
+    color: #000;
+}
+.portfolio-text a {
+    color: #000;
+}
+.portfolio-text p {
+    /* font-family: Ubuntu; */
+    font-family: Poppins;
+    font-size: 14px;
+    letter-spacing: 0.01em;
+    font-weight: 100;
+    word-spacing: 0.1em;
+    color: antiquewhite;
+}
+.projects-quote {
+    margin: 5% auto 5% 0%;
+    padding-top: 1%;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 100;
+    text-align: center;
+}
+.free-lancer-icon {
+    margin-top: 35% !important;
+}

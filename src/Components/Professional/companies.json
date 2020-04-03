@@ -1,0 +1,135 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "companyName": "IGT India Pvt Ltd",
+            "type": "Digital Gaming",
+            "location": "Hyderabad",
+            "country": "India",
+            "startDate": "02/06/2019",
+            "endDate": "Present",
+            "designation": ["Software Development Engineer 2"],
+            "projects": [
+                {
+                    "id": "1",
+                    "title": "Cashier Payment integrations in online state lotteries and casino games",
+                    "domain": "ach-payments",
+                    "techStack": [
+                        "ReactJS",
+                        "Redux",
+                        "PayPalRestAPI",
+                        "Axios",
+                        "StyledComponents",
+                        "ACHPayments",
+                        "Lerna",
+                        "Storybook",
+                        "NodeJS"
+                    ],
+                    "functionality": [
+                        "Session handling between gaming system and cashier system",
+                        "Delivering both baseline and customized version for each lottery, allowing players to register payment instructions and a set of controls to initiate various actions."
+                    ],
+                    "description": "It is a customer's web application with pages for ordering and viewing payment transactions, registering payment instructions, etc. It's a part of the Pay solution for lottery payment processing. Depending on configuration Cashier supports multiple providers from all over the world"
+                },
+                {
+                    "id": "2",
+                    "title": "Framework migration from legacy code base to React Single Page App",
+                    "domain": "framework-spa",
+                    "techStack": [
+                        "ReactJS",
+                        "Storybook",
+                        "Axios",
+                        "StyledComponents",
+                        "Lerna",
+                        "Redux",
+                        "ES6",
+                        "Redux-Saga",
+                        "Formik",
+                        "Yup"
+                    ],
+                    "functionality": [
+                        "Working in framework migration from legacy JS code base to new React framework using 16.8 update of react using Hooks in a globally distributed and diverse team",
+                        "Developed independent react components using React-storybook and published them to nexus repo using mono-repo structure managed by Lerna",
+                        "Working on development and integration of React Single Page Application (SPA) into Adobe’s AEM Content management system as a pivotal project",
+                        "Integrated payment gateways like PayPal and other ACH methods to gaming modules for winning amount deposits and withdrawals",
+                        "Worked on online lottery purchase modules, gaming subscriptions, player account managements, wagering that supports the State lotteries and casino games",
+                        "Added multilingual support to applications using i18n translations",
+                        "Worked on Google maps integration in react components for global retail store mapping"
+                    ]
+                }
+            ]
+        },
+		{
+            "id": 2,
+            "companyName": "Infosys Ltd",
+            "type": "IT Services",
+            "location": "Hyderabad",
+            "country": "India",
+            "startDate": "01/12/2016",
+            "endDate": "01/30/2019",
+            "designation": [
+                "Systems Engineer Trainee",
+                "Systems Engineer",
+                "Senior Systems Engineer"
+            ],
+            "projects": [
+                {
+                    "id": "1",
+                    "title": "Automobile Telematics - Operating and controlling the connected vehicles remotely using web services",
+                    "domain": "automobiles-telematics",
+                    "techStack": [
+                        "Angular JS",
+                        "AJAX",
+                        "jQuery",
+                        "HTML5",
+                        "CSS3",
+                        "SiebelOpenUI",
+                        "GoogleMapsAPI",
+                        "MomentJS",
+                        "Git",
+                        "JavaScript"
+                    ],
+                    "functionality": [
+                        "Multiple user roles",
+                        "Graphical Dashboards",
+                        "Google Maps API to track the connected vehicles",
+                        "Dashboard for remotely controlling the cars and tracking their activity upon authorization"
+                    ],
+                    "description": "Developed and integrated Telematics web applications in Siebel CRM that remotely controls the connected cars through APIs and allows the call centre agents to monitor and assist the vehicle from this dashboard"
+                },
+                {
+                    "id": "2",
+                    "title": "Telecom - Order Creation modules",
+                    "domain": "telecom-order-creation",
+                    "techStack": [
+                        "AJAX",
+                        "jQuery",
+                        "JavaScript",
+                        "HTML5",
+                        "CSS3",
+                        "SiebelOpenUI",
+                        "Git"
+                    ],
+                    "functionality": [
+                        "Multiple user responsibilities and restricting access",
+                        "Multi-step order creation process",
+                        "Reports Generation"
+                    ],
+                    "description": "Developed Telecom order creation modules for multiple Telecom services like Voice, Internet and Smart Home Products, Wireless devices handling the heterogeneous data"
+                },
+                {
+                    "id": "3",
+                    "title": "Android Hybrid App",
+                    "domain": "internship",
+                    "techStack": ["Android", "SQLite", "Ionic"],
+                    "functionality": [
+                        "Developed a Hybrid Web Application in Android for the internal evaluation tasks",
+                        "Got trained in Python Programming fundamentals, OOP Concepts, Collections, Data Structures in Python",
+                        "RDBMS fundamentals, Advanced SQL Concepts"
+                    ],
+                    "description": "Android Shopping application"
+                }
+            ]
+        }
+    ]
+}
