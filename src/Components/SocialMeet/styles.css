@@ -1,0 +1,77 @@
+.twitter-tweet {
+    font-weight: normal;
+    font-size: 12px;
+}
+.portfolio-text button {
+    /* font-family: Ubuntu; */
+    font-family: Poppins;
+    background-color: #fcb412;
+    font-size: 10px;
+    text-transform: capitalize;
+    color: #000;
+}
+.portfolio-text a {
+    color: #000;
+}
+.portfolio-text p {
+    /* font-family: Ubuntu; */
+    font-family: Poppins;
+    font-size: 14px;
+    letter-spacing: 0.01em;
+    font-weight: 100;
+    word-spacing: 0.1em;
+    color: antiquewhite;
+}
+.projects-quote {
+    margin: 5% auto 5% 0%;
+    padding-top: 1%;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 100;
+    text-align: center;
+}
+.free-lancer-icon {
+    margin-top: 15% !important;
+}
+.surprise-div {
+    height: 10%;
+    width: 100%;
+    background-color: #fff;
+    color: #000;
+    float: left;
+    margin: 20% auto auto 0% !important;
+    bottom: 1%;
+    border-radius: 12% 0% 0% 0% / 25px;
+    display: none;
+}
+.surprise-div h5 {
+    font-weight: 400;
+    font-family: Poppins;
+    font-size: 12px;
+    text-align: start;
+    margin-left: 10%;
+}
+.surprise-left {
+    float: left;
+    height: 100%;
+    width: 60%;
+}
+.surprise-right {
+    float: left;
+    height: 100%;
+    width: 30%;
+}
+.surprise-right svg {
+    margin: 20%;
+    font-size: 50px;
+    color: chocolate;
+    box-shadow: 7px 3px 5px 0 rgba(0, 0, 0, 0.2),
+        12px 10px 20px 0px rgba(0, 0, 0, 0.19);
+    border-radius: 20%;
+    background-color: antiquewhite;
+}
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+    .portfolio-text p {
+        font-size: 23px;
+    }
+}

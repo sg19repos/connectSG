@@ -1,0 +1,53 @@
+.projects-home {
+    height: 100%;
+    width: 100%;
+    float: left;
+    /* background: url("/images/backgrounds/code.jpg"); */
+    background-size: contain;
+    border-radius: 8% 8% 0% 0% / 20px;
+}
+
+/* #responsive-dialog-title:before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 5%;
+    left: 0;
+    right: 0;
+    height: 1px;
+    background: #000;
+} */
+.MuiDialog-paperFullScreen {
+    background-color: #282c34 !important;
+    font-family: Poppins !important;
+}
+.responsive-dialog-description {
+    border: 1px solid gold;
+    background-color: gold;
+    /* background-color: #075767; */
+    padding: 10% 6%;
+    color: #555;
+    border-radius: 10% 60px;
+    margin-top: 0px;
+    min-height: 30%;
+    letter-spacing: 0.01em;
+    word-spacing: 0.1em;
+    font-family: Poppins !important;
+}
+
+#responsive-dialog-title h2 {
+    position: relative;
+    display: inline-block;
+    padding: 0 30px;
+    z-index: 1;
+    color: #ddd;
+    font-family: Poppins !important;
+}
+
+.project-detail-dialog-img {
+    height: 100%;
+    width: 100%;
+    margin: 0% 0% 10% 0%;
+    float: left;
+    border-radius: 3%;
+}

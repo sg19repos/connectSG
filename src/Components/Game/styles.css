@@ -1,0 +1,11 @@
+.field {
+    height: 182px;
+    width: 182px;
+}
+.cell {
+    height: 20px;
+    width: 20px;
+    float: left;
+    margin: 2px;
+    border: 1px solid #000;
+}

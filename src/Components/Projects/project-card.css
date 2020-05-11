@@ -1,0 +1,145 @@
+.project-custom-card {
+    /* height: 15%; */
+    min-height: 500px;
+    height: 100%;
+    width: 90%;
+    margin: 5%;
+    /* background-color: aqua; */
+    float: left;
+    border-radius: 3%;
+    border: 1px solid #000;
+    /* background-color: #021d44; */
+    background-color: #4b4b4b;
+    color: #fff;
+    /* font-family: Candara; */
+    font-family: Poppins;
+}
+.card-top-bar {
+    height: 5%;
+    width: 96%;
+    background-color: #000;
+    float: left;
+    margin: 2%;
+    border-radius: 10% 10% 0% 0% / 50px;
+    color: #807f7f;
+}
+.card-top-bar svg {
+    width: 0.8em !important;
+}
+.card-category {
+    height: 100%;
+    width: 30%;
+    float: left;
+    font-size: 12px;
+    text-transform: uppercase;
+    padding-top: 1%;
+    /* background-color: darkolivegreen; */
+}
+.card-open-new-window {
+    height: 100%;
+    /* width: 20%; */
+    width: auto;
+    float: right;
+    margin-right: 5%;
+    /* background-color: darkgoldenrod; */
+}
+.card-title {
+    width: 96%;
+    height: 6%;
+    text-align: center;
+    /* background-color: chocolate; */
+    float: left;
+    margin: 2%;
+    color: #dcdcdc;
+}
+.card-center-content {
+    height: 85%;
+    width: 96%;
+    float: left;
+    /* background-color: khaki; */
+    margin: auto 2% auto 0%;
+}
+.card-techStack {
+    height: auto;
+    min-height: 50%;
+    width: 18%;
+    float: left;
+    /* background-color: orangered; */
+    background-color: #000;
+    flex-wrap: wrap;
+    margin: auto 2% auto auto;
+    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
+        -13px 1px 20px 1px rgba(0, 0, 0, 0.19);
+}
+.tech-list {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 20% auto;
+}
+.tech-list ul {
+    height: 100%;
+    width: 90%;
+    margin: 0%;
+    padding: 0%;
+}
+.tech-list li {
+    height: 10%;
+    width: 50%;
+    float: left;
+    list-style: none;
+    margin: 10% 25%;
+}
+/* .card-techItem {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
+        -13px 1px 20px 1px rgba(0, 0, 0, 0.19);
+    margin: 5%;
+} */
+.card-techItem {
+    box-shadow: 0 4px 8px 0 rgba(249, 247, 247, 0.2),
+        -13px 1px 20px 1px rgba(234, 234, 234, 0.19);
+    margin: 5%;
+}
+.card-techItem .tech-stack-img {
+    width: 22px;
+}
+.card-image-content {
+    height: 96%;
+    width: 80%;
+    float: left;
+    /* background-color: deeppink; */
+}
+.card-image-content img {
+    height: 100%;
+    width: 100%;
+    float: left;
+    border-radius: 3%;
+}
+.card-urls {
+    height: 13%;
+    width: 100%;
+    /* background-color: gold; */
+    float: left;
+}
+.card-url {
+    height: 100%;
+    width: 25%;
+    float: left;
+    /* background-color: green; */
+}
+.card-source-code {
+    height: 100%;
+    width: 25%;
+    float: left;
+    /* background-color: greenyellow; */
+}
+.card-description {
+    height: 10%;
+    width: 100%;
+    /* background-color: indianred; */
+    float: left;
+}
+.card-description p {
+    margin: 0px;
+    font-size: medium;
+}

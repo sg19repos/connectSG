@@ -1,0 +1,231 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Jewellery catalog application",
+            "description": "DLJewels is a jewellery catalog application I built for my client which came out well as expected. Initially it was built to include just the application's catalog, later linked with a CDN to deliver and update images. I was the one who designed, architected and implemented the entire application",
+            "techStack": [
+                "javascript",
+                "react",
+                "redux",
+                "html",
+                "css",
+                "materialui",
+                "github",
+                "xampp"
+            ],
+            "url": "https://sg19repos.github.io/home",
+            "sourceCode": "https://github.com/sg19repos/DLJ",
+            "tags": ["live", "client", "WIP", "Fashion", "Shopping"],
+            "image": "./images/ProjectImages/collages/dljCollage.png",
+            "category": "client",
+            "status": "live",
+            "themeColor": "#FFCC33",
+            "fontColor": "#000000bd"
+        },
+        {
+            "id": 2,
+            "name": "Maa Properties",
+            "description": "It is one of my first projects, developed for a client's business. In short, this is a tenancy management portal. Means, it eases the tenant-owner transactions. Though started with a minimum viable product, later on it's scope has been expanded to include features like complaints section, service request notifications, paymemts tracker, multi-level access control and much more. It is one of my key client deliverables",
+            "techStack": [
+                "mysql",
+                "php",
+                "materialui",
+                "bootstrap",
+                "html",
+                "css",
+                "javascript",
+                "angularjs"
+            ],
+            "url": "http://missionmaa.epizy.com/login.php",
+            "sourceCode": "https://github.com/BetaProg/MPRTS",
+            "tags": [
+                "RealEstate",
+                "Client",
+                "Full Stack",
+                "live",
+                "Big",
+                "EmailNotifications"
+            ],
+            "image": "./images/ProjectImages/collages/maaPropCollage.png",
+            "category": "client",
+            "status": "live",
+            "themeColor": "#075767",
+            "fontColor": "#ffffffb3"
+        },
+        {
+            "id": 3,
+            "name": "Expense sharing app - Roomies",
+            "description": "A problem turned into product. It is an expense sharing application I built for using among my flat mates. It contains some routine, yet, fully functional features including - smart expense spliting, DND mode, report generation at month-end. Currently planning to roll it out once the planned features are completed along with re-development in React",
+            "techStack": [
+                "javascript",
+                "jquery",
+                "html",
+                "css",
+                "angularjs",
+                "php",
+                "mysql",
+                "bootstrap",
+                "materialui"
+            ],
+            "url": "http://vroom.epizy.com/login.php",
+            "sourceCode": "https://github.com/BetaProg/Roomies",
+            "tags": ["live", "self", "Utility"],
+            "image": "./images/ProjectImages/collages/vroomCollage.png  ",
+            "category": "self",
+            "status": "live",
+            "themeColor": "#0D0C0A",
+            "fontColor": "#ffffffb3"
+        },
+        {
+            "id": 4,
+            "name": " True Leaf Tech",
+            "description": "Built for a client in UAE, True Leaf Tech, it is a Hybrid web application built with React and wrapped up with Android SDK using ionic-capacitor. With advent of ionic into react with ionic-4, it has got some good support from built-in ionic UI features. It's nothing less to any native Android app",
+            "techStack": [
+                "react",
+                "redux",
+                "javascript",
+                "html",
+                "css",
+                "materialui",
+                "ionic",
+                "capacitor",
+                "android"
+            ],
+            "url": "NA",
+            "sourceCode": "NA",
+            "tags": [
+                "HybridApp",
+                "Mobile App",
+                "Client",
+                "WIP",
+                "Android",
+                "Government"
+            ],
+            "image": "./images/ProjectImages/collages/tltCollage.png",
+            "category": "client",
+            "status": "dorm",
+            "themeColor": "#C78A83",
+            "fontColor": "#ffffffb3"
+        },
+        {
+            "id": 5,
+            "name": "Bricks and More",
+            "description": "A construction supply chain management application built in Angular 6, for a local business. Though it contains some featues like offline registration, statement generation, admin panel etc, the one I liked than the rest is the order creation module, which contains live order status tracking system",
+            "techStack": [
+                "angularjs",
+                "materialui",
+                "php",
+                "mysql",
+                "html",
+                "css",
+                "javascript"
+            ],
+            "url": "NA",
+            "sourceCode": "https://github.com/BetaProg/KKSuppliers",
+            "tags": ["self", "Supply Chain"],
+            "image": "./images/ProjectImages/collages/bricksTileImage.png",
+            "category": "self",
+            "status": "dorm",
+            "themeColor": "#CCC0B8",
+            "fontColor": "#000000bd"
+        },
+        {
+            "id": 6,
+            "name": "Streaming Site",
+            "description": "One of my product ideas which is inspired from ICECAST streaming platform, is a streaming site, where anyone can stream their music, be it a song or a podcast. It's like a radio station in a pocket. Whoever subscribes to your channel, starts listening to your broadcasts right away on opening. It makes use of Socket programming and is still a work in progress",
+            "techStack": [
+                "nodejs",
+                "javascript",
+                "html",
+                "css",
+                "bootstrap",
+                "socketio",
+                "express",
+                "heroku",
+                "git"
+            ],
+            "url": "https://feverz.herokuapp.com/",
+            "sourceCode": "NA",
+            "tags": ["audio", "streaming", "self", "live"],
+            "image": "./images/ProjectImages/collages/streamItCollage.png",
+            "category": "self",
+            "status": "live",
+            "themeColor": "#FF7D00",
+            "fontColor": "#ffffff"
+        },
+        {
+            "id": 7,
+            "name": "Shopping Cart",
+            "description": "Shopping Cart widget based on React and localStorage",
+            "techStack": [
+                "angularjs",
+                "html",
+                "css",
+                "javascript",
+                "bootstrap",
+                "materialui"
+            ],
+            "url": "NA",
+            "sourceCode": "NA",
+            "tags": ["self", "widget"],
+            "image": "./images/ProjectImages/collages/shoppingCartCollage.png",
+            "category": "self",
+            "status": "dorm",
+            "themeColor": "#3F4B4F",
+            "fontColor": "#ffffffb3"
+        },
+        {
+            "id": 8,
+            "name": "Custom Calendar Widget",
+            "description": "Custom Calendar widget built in JavaScript with Weekly and Monthly views. It was a part of a coding exercise in a hackathon. Quick and made out of coreJS date functions",
+            "techStack": ["html", "css", "javascript", "bootstrap"],
+            "url": "NA",
+            "sourceCode": "https://github.com/BetaProg/CustomCalendar",
+            "tags": ["self", "widget"],
+            "image": "./images/ProjectImages/collages/calendarCollage.png",
+            "category": "self",
+            "status": "dorm",
+            "themeColor": "#06446C",
+            "fontColor": "#ffffffb3",
+            "halfImage": "50%"
+        },
+        {
+            "id": 9,
+            "name": "CountItDown npm package",
+            "description": "Another npm package to plugin in the count-down-timer in your webapplication. Built using date-fns library, you pass the finish date/time to the component, it returns the count-down timer widget in action in your plugged in component",
+            "techStack": [
+                "react",
+                "html",
+                "css",
+                "github",
+                "javascript",
+                "npm"
+            ],
+            "url": "https://sg19repos.github.io/countItDown/",
+            "sourceCode": "https://github.com/sg19repos/countItDown",
+            "tags": ["live", "self", "widget"],
+            "image": "./images/ProjectImages/collages/countDownCollage.png",
+            "category": "self",
+            "status": "live",
+            "themeColor": "#FDBF43",
+            "fontColor": "#000000bd",
+            "halfImage": "50%"
+        },
+        {
+            "id": 10,
+            "name": "Stock Scrape",
+            "description": "Scraping some stock exchange site (strictly for non-commercial purposes), I made this tool just to get the trade options - puts and calls, and without much hassle and calculation, this returns the calculated data on to a excel sheet. Thanks to Python's BEAUTIFUL SOUP library, It's a first and most useful library one must be aware when web-scraping",
+            "techStack": ["python", "excel"],
+            "url": "NA",
+            "sourceCode": "https://github.com/BetaProg/Stockscrape",
+            "tags": ["self", "StockData", "WebScrapping", "Stocks", "Market"],
+            "image": "./images/ProjectImages/webscraping.png",
+            "category": "self",
+            "status": "dorm",
+            "themeColor": "#074478e0",
+            "fontColor": "#f2f2f2",
+            "halfImage": "50%"
+        }
+    ]
+}
