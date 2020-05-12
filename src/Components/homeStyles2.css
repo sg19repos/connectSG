@@ -150,14 +150,14 @@
         border-radius: 0% 15% 0% 0% / 40px;
     }
     .home-tile-bottom-right-top {
-        height: 30%;
+        height: 40%;
         width: 100%;
         margin: 0%;
         background-color: bisque;
         border-radius: 0% 15% 0% 0% / 40px;
     }
     .home-tile-bottom-right-bottom {
-        height: 70%;
+        height: 60%;
         width: 100%;
         margin: 0%;
         background-color: orange;
